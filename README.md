@@ -16,6 +16,7 @@ Client work is private, so this profile is mostly what I build at home: apps for
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/afterglow"><img src="assets/afterglow.jpg" alt="Afterglow on an LG TV and a PS5" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/afterglow">Afterglow</a></b><br>
+      <sub><a href="https://github.com/HaydenGriffin/afterglow/releases/latest">LG webOS v1.5.6</a> · <a href="https://github.com/HaydenGriffin/afterglow-ps5/releases/latest">PS5 v1.6.0</a></sub><br>
       A Music Assistant player for <a href="https://github.com/HaydenGriffin/afterglow">LG TVs</a> and the <a href="https://github.com/HaydenGriffin/afterglow-ps5">PS5</a>: album-art posters, word-by-word lyrics and MilkDrop visuals. <a href="https://haydengriffin.github.io/afterglow/">Live demo</a>.
     </td>
     <td width="33%" valign="top">

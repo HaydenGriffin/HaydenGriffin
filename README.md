@@ -14,9 +14,9 @@ Client work is private, so this profile is mostly what I build at home: apps for
       One remote for an Android TV box and an LG TV: an LG launcher, quick TV settings and LG rows on the Shield's home screen.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/HaydenGriffin/afterglow"><img src="assets/afterglow.jpg" alt="Afterglow" width="100%"></a>
+      <a href="https://github.com/HaydenGriffin/afterglow"><img src="assets/afterglow.jpg" alt="Afterglow on an LG TV and a PS5" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/afterglow">Afterglow</a></b><br>
-      A Music Assistant player for LG TVs: album-art posters, word-by-word lyrics and MilkDrop visuals. <a href="https://haydengriffin.github.io/afterglow/">Live demo</a>.
+      A Music Assistant player for <a href="https://github.com/HaydenGriffin/afterglow">LG TVs</a> and the <a href="https://github.com/HaydenGriffin/afterglow-ps5">PS5</a>: album-art posters, word-by-word lyrics and MilkDrop visuals. <a href="https://haydengriffin.github.io/afterglow/">Live demo</a>.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/house-webos"><img src="assets/house-webos.jpg" alt="House for webOS" width="100%"></a>

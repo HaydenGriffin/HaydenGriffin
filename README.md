@@ -12,5 +12,8 @@ Client work is private, so this profile is mostly what I build at home: the soft
 | [lamplight](https://github.com/HaydenGriffin/lamplight) | A design system for Home Assistant wall tablets, and six cards built on it. [Live demo](https://haydengriffin.github.io/lamplight/). |
 | [house-webos](https://github.com/HaydenGriffin/house-webos) | A Home Assistant panel for LG TVs, made for the remote, with a Wrapped-style recap of the week at home. [Live demo](https://haydengriffin.github.io/house-webos/). |
 | [ha-mira-mode](https://github.com/HaydenGriffin/ha-mira-mode) | A Home Assistant integration for Mira Mode digital showers over Bluetooth LE. |
+| [afterglow](https://github.com/HaydenGriffin/afterglow) | Music Assistant player and MilkDrop visualiser for LG webOS TVs. |
 
 **Elsewhere:** [haydengriffin.github.io](https://haydengriffin.github.io) · [LinkedIn](https://www.linkedin.com/in/hayden-griffin-65b66612b)
+
+All of it is free and open source. If something here made your setup better, you can [buy me a coffee](https://buymeacoffee.com/haydengriffin).

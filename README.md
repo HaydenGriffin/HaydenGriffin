@@ -9,9 +9,10 @@ Client work is private, so this profile is mostly what I build at home: apps for
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/HaydenGriffin/prism"><img src="assets/prism.jpg" alt="PRISM" width="100%"></a>
+      <a href="https://github.com/HaydenGriffin/prism"><img src="assets/prism.jpg" alt="PRISM on Android TV and the PS5: the launcher with Continue on the LG and favourite LG apps" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/prism">PRISM</a></b><br>
-      One remote for an Android TV box and an LG TV: an LG launcher, quick TV settings and LG rows on the Shield's home screen.
+      <sub><a href="https://github.com/HaydenGriffin/prism/releases/latest">Android TV v1.0.0</a> · <a href="https://github.com/HaydenGriffin/prism-ps5/releases/latest">PS5 v1.0.0</a></sub><br>
+      One remote for an LG TV, from an <a href="https://github.com/HaydenGriffin/prism">Android TV box</a> or a <a href="https://github.com/HaydenGriffin/prism-ps5">PS5</a>: the box's remote or a DualSense drives LG apps, with an LG launcher and quick TV settings.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/afterglow"><img src="assets/afterglow.jpg" alt="Afterglow on an LG TV and a PS5" width="100%"></a>

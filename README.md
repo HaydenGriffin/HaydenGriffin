@@ -11,13 +11,13 @@ Client work is private, so this profile is mostly what I build at home: apps for
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/prism"><img src="assets/prism.jpg" alt="PRISM on Android TV and the PS5: LG Settings open over PRISM on the TV, driven from the PS5" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/prism">PRISM</a></b><br>
-      <sub><a href="https://github.com/HaydenGriffin/prism/releases/latest">Android TV v1.0.0</a> · <a href="https://github.com/HaydenGriffin/prism-ps5/releases/latest">PS5 v1.0.0</a></sub><br>
+      <sub><a href="https://github.com/HaydenGriffin/prism/releases/latest">Android TV v1.0.1</a> · <a href="https://github.com/HaydenGriffin/prism-ps5/releases/latest">PS5 v1.0.1</a></sub><br>
       One remote for an LG TV, from an <a href="https://github.com/HaydenGriffin/prism">Android TV box</a> or a <a href="https://github.com/HaydenGriffin/prism-ps5">PS5</a>: the box's remote or a DualSense drives LG apps, with an LG launcher and quick TV settings.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/afterglow"><img src="assets/afterglow.jpg" alt="Afterglow on an LG TV and a PS5" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/afterglow">Afterglow</a></b><br>
-      <sub><a href="https://github.com/HaydenGriffin/afterglow/releases/latest">LG webOS v1.6.0</a> · <a href="https://github.com/HaydenGriffin/afterglow-ps5/releases/latest">PS5 v1.7.0</a></sub><br>
+      <sub><a href="https://github.com/HaydenGriffin/afterglow/releases/latest">LG webOS v1.6.1</a> · <a href="https://github.com/HaydenGriffin/afterglow-ps5/releases/latest">PS5 v1.7.0</a></sub><br>
       A Music Assistant player for <a href="https://github.com/HaydenGriffin/afterglow">LG TVs</a> and the <a href="https://github.com/HaydenGriffin/afterglow-ps5">PS5</a>: album-art posters, word-by-word lyrics and MilkDrop visuals. <a href="https://haydengriffin.github.io/afterglow/">Live demo</a>.
     </td>
     <td width="33%" valign="top">

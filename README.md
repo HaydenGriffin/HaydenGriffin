@@ -23,8 +23,18 @@ Client work is private, so this profile is mostly what I build at home: apps for
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/house-webos"><img src="assets/house-webos.jpg" alt="House for webOS" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/house-webos">House for webOS</a></b><br>
+      <sub><a href="https://github.com/HaydenGriffin/house-webos/releases/latest">LG webOS v1.5.0</a></sub><br>
       A Home Assistant panel for LG TVs, made for the remote, with a Wrapped-style recap of the week at home. <a href="https://haydengriffin.github.io/house-webos/">Live demo</a>.
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/HaydenGriffin/ps5-autojb"><img src="assets/ps5-autojb.jpg" alt="ps5-autojb beside the PS5 Media row with Y2JB - Gaming selected, and the PS5 jailbreak ready notification on an Android phone" width="100%"></a>
+      <b><a href="https://github.com/HaydenGriffin/ps5-autojb">ps5-autojb</a></b><br>
+      Keeps a jailbroken PS5 ready with nobody at the console, and brings it back after a crash, through Home Assistant.
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
@@ -35,16 +45,19 @@ Client work is private, so this profile is mostly what I build at home: apps for
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/lamplight"><img src="assets/lamplight.jpg" alt="Lamplight" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/lamplight">Lamplight</a></b><br>
-      A design system for Home Assistant wall tablets, and six cards built on it. <a href="https://haydengriffin.github.io/lamplight/">Live demo</a>.
+      <sub><a href="https://github.com/HaydenGriffin/lamplight/releases/latest">Home Assistant v1.2.1</a> · <a href="https://github.com/HaydenGriffin/lamplight-ps5/releases/latest">PS5 v1.0.0</a></sub><br>
+      A design system for <a href="https://github.com/HaydenGriffin/lamplight">Home Assistant wall tablets</a>, six cards built on it, and the same pages on the TV from a <a href="https://github.com/HaydenGriffin/lamplight-ps5">PS5</a>. <a href="https://haydengriffin.github.io/lamplight/">Live demo</a>.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/ha-food-diary"><img src="assets/ha-food-diary.jpg" alt="Food Diary" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/ha-food-diary">Food Diary</a></b><br>
+      <sub><a href="https://github.com/HaydenGriffin/ha-food-diary/releases/latest">v1.6.1</a></sub><br>
       A calorie and nutrition diary for Home Assistant, with a native SwiftUI iPhone app, widgets and two-way Apple Health sync.
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/ha-mira-mode"><img src="assets/ha-mira-mode.jpg" alt="Mira Mode" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/ha-mira-mode">Mira Mode</a></b><br>
+      <sub><a href="https://github.com/HaydenGriffin/ha-mira-mode/releases/latest">v0.2.0</a></sub><br>
       A Home Assistant integration for Mira Mode digital showers over Bluetooth LE.
     </td>
   </tr>

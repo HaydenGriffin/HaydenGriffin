@@ -27,15 +27,6 @@ Client work is private, so this profile is mostly what I build at home: apps for
       A Home Assistant panel for LG TVs, made for the remote, with a Wrapped-style recap of the week at home. <a href="https://haydengriffin.github.io/house-webos/">Live demo</a>.
     </td>
   </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/HaydenGriffin/ps5-autojb"><img src="assets/ps5-autojb.jpg" alt="ps5-autojb beside the PS5 Media row with Y2JB - Gaming selected, and the PS5 jailbreak ready notification on an Android phone" width="100%"></a>
-      <b><a href="https://github.com/HaydenGriffin/ps5-autojb">ps5-autojb</a></b><br>
-      Keeps a jailbroken PS5 ready with nobody at the console, and brings it back after a crash, through Home Assistant.
-    </td>
-    <td width="33%" valign="top"></td>
-    <td width="33%" valign="top"></td>
-  </tr>
 </table>
 
 #### For the home
@@ -43,7 +34,7 @@ Client work is private, so this profile is mostly what I build at home: apps for
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/HaydenGriffin/lamplight"><img src="assets/lamplight.jpg" alt="Lamplight" width="100%"></a>
+      <a href="https://github.com/HaydenGriffin/lamplight"><img src="assets/lamplight.jpg" alt="Lamplight on Home Assistant and the PS5: the Living room page with music, scenes and lights glowing warm" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/lamplight">Lamplight</a></b><br>
       <sub><a href="https://github.com/HaydenGriffin/lamplight/releases/latest">Home Assistant v1.2.1</a> · <a href="https://github.com/HaydenGriffin/lamplight-ps5/releases/latest">PS5 v1.0.0</a></sub><br>
       A design system for <a href="https://github.com/HaydenGriffin/lamplight">Home Assistant wall tablets</a>, six cards built on it, and the same pages on the TV from a <a href="https://github.com/HaydenGriffin/lamplight-ps5">PS5</a>. <a href="https://haydengriffin.github.io/lamplight/">Live demo</a>.
@@ -62,6 +53,8 @@ Client work is private, so this profile is mostly what I build at home: apps for
     </td>
   </tr>
 </table>
+
+**Also:** [ps5-autojb](https://github.com/HaydenGriffin/ps5-autojb) keeps a jailbroken PS5 ready with nobody at the console, and brings it back after a crash, through Home Assistant.
 
 **Elsewhere:** [haydengriffin.github.io](https://haydengriffin.github.io) · [LinkedIn](https://www.linkedin.com/in/hayden-griffin-65b66612b)
 

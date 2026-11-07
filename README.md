@@ -36,7 +36,7 @@ Client work is private, so this profile is mostly what I build at home: apps for
     <td width="33%" valign="top">
       <a href="https://github.com/HaydenGriffin/lamplight"><img src="assets/lamplight.jpg" alt="Lamplight on Home Assistant and the PS5: the Living room page with music, scenes and lights glowing warm" width="100%"></a>
       <b><a href="https://github.com/HaydenGriffin/lamplight">Lamplight</a></b><br>
-      <sub><a href="https://github.com/HaydenGriffin/lamplight/releases/latest">Home Assistant v1.2.1</a> · <a href="https://github.com/HaydenGriffin/lamplight-ps5/releases/latest">PS5 v1.0.0</a></sub><br>
+      <sub><a href="https://github.com/HaydenGriffin/lamplight/releases/latest">Home Assistant v1.2.1</a> · <a href="https://github.com/HaydenGriffin/lamplight-ps5/releases/latest">PS5 v1.1.0</a></sub><br>
       A design system for <a href="https://github.com/HaydenGriffin/lamplight">Home Assistant wall tablets</a>, six cards built on it, and the same pages on the TV from a <a href="https://github.com/HaydenGriffin/lamplight-ps5">PS5</a>. <a href="https://haydengriffin.github.io/lamplight/">Live demo</a>.
     </td>
     <td width="33%" valign="top">
